@@ -28,5 +28,5 @@
 ---
 
 ## 📱 Connect With Me
-[LinkedIn](https://linkedin.com/in/aslampathan) | [Twitter](https://twitter.com/yourhandle)
+[LinkedIn](https://www.linkedin.com/in/aslam-pathan/)
 
