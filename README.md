@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Aslam Pathan 👋
 
-<!--
-**aslam1280/aslam1280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m a Freelance Wordpress Developer   
+🔍 I do Bug Hunting (Hall of Fame on Tata Motors, Bugcrowd)  
+🎯 Focused on Bug Hunting   
+📬 Reach me: pathanaslam1280@gmail.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+- 🛠️ Tools: Burp Suite, Wireshark, NMAP, ZAP Tools 
+
+---
+
+## 🛠️ My Wordpress Website Project 
+- 🔗 http://collectmymoney.in/
+- 🔗 http://marketingandsalesagency.com/
+- 🔗 https://verification.net.in/
+- 🔗 https://mysecurityguards.co.in/
+
+---
+
+## 🏆 Achievements
+- 🎖️ Bugcrowd Hall of Fame
+- 🔐 Found bugs in Tata Motors, SGRH, Cyber Comholo, etc.
+- 🧠 TryHackMe Cyber Security Track Completed
+
+---
+
+## 📱 Connect With Me
+[LinkedIn](https://linkedin.com/in/aslampathan) | [Twitter](https://twitter.com/yourhandle)
+
